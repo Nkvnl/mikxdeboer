@@ -1,0 +1,101 @@
+body{
+    background:#333;
+    color:#fff;
+
+}
+
+.far{
+    color:white;
+    font-size:80%;
+}
+
+.man{
+    margin-left:542px;
+    box-shadow: 2px 2px 2px black;
+}
+.man1{
+    margin-left:542px;
+}
+
+.vrouw{
+    box-shadow: 2px 2px 2px black;
+}
+
+.fas{
+    color:#008ed6;
+}
+
+.nav-link{
+    color:#546B94;
+}
+
+.navbar{
+    border-bottom:#546B94 5px solid;
+    z-index:1000;
+    background:#D36832;
+    margin: 0 ;
+    padding:0;
+}
+
+#home-section{
+   background: linear-gradient(rgba(211, 104, 50,.6), rgba(84, 107, 148,.6)), url("https://images.pexels.com/photos/1059109/pexels-photo-1059109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size:cover;
+    background-attachment:fixed;
+    min-height:550px;
+}
+
+.font-c{
+       font-family: 'Playfair Display', serif;
+ 
+}
+
+.pp{
+    background:#546B94;
+    border-top:5px solid white;
+    font-family: 'Playfair Display', serif;
+    color:white;
+}
+
+a{
+    font-size:120%!important;   
+    font-family: 'Oswald', sans-serif;
+    color:white;
+
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: white; /* Changes regular toggle color */
+}
+.navbar-default .navbar-toggle .icon-bar:hover {
+  background-color: white; /* Changes toggle color on hover */
+}
+
+
+.home-inner{
+    padding-top: 150px;
+}
+
+.dark-overlay{
+    background-color: rgba(0,0,0,0.7);
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    min-height:700px ;
+}
+#main-footer{
+
+}
+    
+}
+
+.card-form{
+    opacity:0.8;
+}
+
+
+
+#create-section{
+    
+}
+
